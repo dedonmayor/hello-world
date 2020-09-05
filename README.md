@@ -7,3 +7,7 @@ Ginger
 
 Onion
 Pepper 
+
+Finance
+Bank
+Software 
